@@ -1,0 +1,26 @@
+.container {
+    margin-bottom: 30px;
+}
+
+/* Carousel Design */
+
+.buy-now-button {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.carousel-item {
+
+    padding: 20px 40px;
+
+}
+
+.orange-bg {
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
