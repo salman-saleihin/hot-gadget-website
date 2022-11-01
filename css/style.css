@@ -25,12 +25,12 @@ p {
 }
 
 .orange-bg {
-    background-color: wheat;
+    
     border-radius: 10px;
 }
 
 .bg-wheat {
-    background-color: wheat;
+    
 }
 
 .seeall {
@@ -41,11 +41,13 @@ p {
 .card {
     border: none;
     box-shadow: 3px 3px 6px lightgray ;
-    background-color: wheat;
+    
 }
 
+
+
 .card-footer {
-    background-color: wheat;
+    background-color: white;
     border-top: none;
 }
 
@@ -65,3 +67,28 @@ p {
 
 }
 
+.categories-border {
+    border-bottom: 5px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}  
+
+footer p {
+    font-weight: 100;
+    color: black;
+    border-top: 1px solid gray;
+}
+
+.category-section {
+    margin-bottom: 80px;
+}
+
+
+.category-item {
+    padding:  25px 25px;
+}
+
+.buy-now-button {
+    margin-top: 10px;
+    
+}
