@@ -2,6 +2,11 @@
     margin-bottom: 30px;
 }
 
+
+p {
+    color: gray;
+}
+
 /* Carousel Design */
 
 .buy-now-button {
@@ -20,7 +25,43 @@
 }
 
 .orange-bg {
-    background-color: #fceae8;
+    background-color: wheat;
     border-radius: 10px;
+}
+
+.bg-wheat {
+    background-color: wheat;
+}
+
+.seeall {
+ text-decoration: none;
+ color: wheat;
+}
+
+.card {
+    border: none;
+    box-shadow: 3px 3px 6px lightgray ;
+    background-color: wheat;
+}
+
+.card-footer {
+    background-color: wheat;
+    border-top: none;
+}
+
+.card-title {
+    text-align: center;
+    font-weight: 700;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.pricedol {
+    text-align: center;
+    color: black;
+    font-weight: 700;
+
 }
 
